@@ -1,4 +1,3 @@
-
 '''#1'''
 
 def draw_square(i):
